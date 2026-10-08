@@ -30,7 +30,7 @@
 	"vars": {
 		"ACUMATICA_URL": "https://premier-pallets.acumatica.com",
 		"ACUMATICA_TENANT": "Premeir Pallets",
-		"ACUMATICA_ENDPOINT_VERSION": "25.200.001",
+		"ACUMATICA_ENDPOINT_VERSION": "24.200.001",
 		"ACUMATICA_ENDPOINT_NAME": "Default",
 		"ACUMATICA_MAX_RECORDS": "1000",
 		"ACUMATICA_CANARY_GI": "MCPAccess"
